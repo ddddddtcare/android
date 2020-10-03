@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
     private void initData(){
         String[] title={"first pic","second pic","third pic","forth pic"};
-        int[] images={R.d};
+        int[] images={};
     }
     private void initView(){
         mImage=findViewById(R.id.iv_show);
